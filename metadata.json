@@ -1,0 +1,6 @@
+{
+  "name": "EDU PROMPT ENGINE",
+  "description": "Bir nechta ma’lumot kiriting — to‘liq interaktiv dars uchun professional AI prompt oling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
